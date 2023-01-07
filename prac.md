@@ -1,0 +1,377 @@
+# Hiểu biết cơ bản về CNTT
+
+- Hãy nêu định nghĩa của mạng máy tính?
+  - Là một hệ thống gồm nhiều máy tính và các thiết bị được kết nối với nhau bởi đường truyền vật lý theo một kiến trúc (Network Architecture) nào đó nhằm thu thập, trao đổi dữ liệu và chia sẻ tài nguyên cho nhiều người sử dụng.
+- Hãy giải thích khái niệm Social Engineering
+  - Là kỹ thuật đánh lừa người dùng để khai thác thông tin hoặc lấy thông tin để xâm nhập hệ thống.
+- Chọn cách giải thích ý nghĩa các con số trong ký hiệu sau: HDD 160GB SEAGATE SATA/150 - 7200rpm.
+  - Ổ đĩa HDD có dung lượng 160GB, chuẩn SATA có tốc độ truy cập là 150MB trên 1 giây, tốc độ quay ổ đĩa là 7200 vòng/phút
+- Thương mại điện tử (e-commerce) là gì?
+  - Là các dịch vụ kinh doanh thương mại thông thường, nhưng được hỗ trợ bằng các thiết bị và dịch vụ điện tử.
+- Hãy chỉ ra quy tắc sai về mật khẩu
+  - Nên sử dụng mật khẩu là ngày sinh, số điện thoại hoặc số chứng minh thư để dễ nhớ và bảo mật.
+- Chọn chế độ nào dưới đây để máy tính ở chế độ ngủ?
+  - Sleep
+- Hãy giải thích quy tắc 20 20 20 khi sử dụng máy tính:
+  - Cứ 20 phút cho mắt nghỉ 20s và nhìn vào vật cách xa 20 feet
+- Đâu là điểm khác biệt lớn nhất giữa mạng LAN và WAN?
+  - WAN có thể trao đổi dữ liệu với các máy tính khác mà không quan tâm đến vị trí địa lý.
+- Hãy chọn phát biểu chính xác nhất về vi phạm bản quyền phần mềm
+  - Nhân bản, sản xuất bản sao, phân phối phần mềm mà chưa được sự cho phép của tác giả.
+- Băng thông là gì?
+  - Là số lượng dữ liệu được truyền đi hoặc nhận trên một đơn vị thời gian
+- Điều nào sau đây là đúng về username?
+  - Username khônng được bao gồm các ký tự đặc biệt như ?- ,.
+- Một Gbps thì bằng:
+  - 1024 Mbps
+- Định nghĩa nào là đúng nhất khi nói về phần mềm ứng dụng?
+  - Là một phần trực tiếp thực hiện một công việc cho người dùng.
+- Điểm kết nối dùng để gắn các thiết bị ngoại vi với bo mạch chủ được gọi là gì?
+  - Cổng
+- Hãy chọn tài khoản bảo mật tốt nhất trong các tài khoản sau:
+  - username : contest password : Pa@w123456wo5vrsd
+- Hãy giải thích khái niệm bản quyền phần mềm
+  - Là quyền của tác giả đối với chương trình máy tính, sưu tập dữ liệu.
+- Phát biểu nào sau đây là sai về quyền tác giả?
+  - Là một bộ phận tách biệt với quyền sở hữu trí tuệ.
+- Mạng xã hội phổ biến nhất toàn cầu là....?
+  - Facebook
+- Định nghĩa nào sau đây là chính xác nhất về Smartphone?
+  - Là một chiếc điện thoại được tích hợp hệ điều hành di động với nhiều tính năng hỗ trợ về tính toán, kết nối và các công nghệ xử lý về âm thanh, hình ảnh, cảm biến,...
+- Bộ cấp nguồn, bo mạch chủ, bộ vi xử lý, bộ nhớ của một máy tính được bảo vệ bởi thiết bị nào sau đây?
+  - Case máy tính
+- Chọn đáp án đúng nhất về định nghĩa phần mềm maý tính?
+  - Là một tập hợp câu lệnh hoặc chỉ thị dùng để thực hiện một chức năng cụ thể nào đó do người lập trình đảm trách.
+- Dùng bao nhiêu chip để chế tạo một bộ vi xử lý đa lõi bao gồm nhiều vi xử lý?
+  - 1 chip
+- Hãy chọn phương án xử lý tiết kiêm chi phí nhất khi máy in laser hết mực
+  - Đổ thêm mực
+- Ví trí tốt nhất để đặt máy tính xách tay (Note book) khi sử dụng chúng?
+  - Trên mặt bàn
+- Giải thích ý nghĩa của1600 MHz trong thông số của một bộ nhớ RAM: DDR3/1600MHz SDRAM
+  - Tốc độ của BUS là 1600MHz/1 giây
+- Thông tin nào sau đây không đúng?
+  - Thuật ngữ "Máy tính lớn" (Main frame) chỉ các máy tính cá nhân có kích thước lớn.
+- Dùng thiết bị nào để kết nối thêm các thiết bị ngoại vi với máy tính?
+  - Card chuyển đổi
+- Các tổ chức của chính phủ Việt Nam sử dụng đuôi tên miền nào sau đây?
+  - .GOV.VN
+- Công cụ nào dưới đây dùng để quản lý cơ sở dữ liệu?
+  - SQLServer
+- Dịch vụ tin nhắn ngắn (SMS) là gì?
+  - Là một giao thức để gửi tin nhắn (văn bản, kí tự) qua mạng không dây. Độ dài tối đa của một tin nhắn là 160 ký tự nếu dùng bảng mã ASCII 7 bit. - Là một dịch vụ gửi thư điện tử. - Là một dịch vụ gửi chuỗi ký tự ngắn (< 2000 ký tự) bằng điện thoại. - Là một dịch vụ gửi tin nhắn ngắn bằng máy tính hoặc điện thoại.
+
+# Sử dụng máy tính cơ bản
+
+- Phát biểu nào sau đây đúng nhất về ứng dụng của username và password để đăng nhập hệ thống?
+  - Username và password sử dụng để chống truy cập trái phép
+- Chọn cách khai báo nào tại thẻ lệnh Date của hộp thoại Customize Regional Options để thay đổi các thông số của hệ thống máy tính sao cho dữ liệu ngày được hiển thị dưới dạng “Tuesday, July 30, 2015”
+  - Tại Short date format hay Long date format nhập: dddd, MMMM dd, yyyy
+- Nêu công dụng của thanh công cụ Taskbar trong hệ điều hành Windows 7
+  - Hiển thị các ứng dụng người dùng đang chạy
+- Trong hệ điều hành Windows 7, hãy chọn cách đúng nhất để tắt một ứng dụng đang bị treo:
+  - Mở Windows Task Manager chọn ứng dụng bị treo, nhấn End task.
+- Phát biểu nào là đúng về Hệ điều hành Windows 7?
+  - Trong hệ điều hành Windows 7, ta có thể chạy cùng lúc nhiều ứng dụng khác nhau
+- Trong hệ điều hành Windows 7, muốn mở 1 tệp tin, ứng dụng, ta thực hiện thao tác nào?
+  - Click đúp vào biểu tượng tệp tin/ứng dụng
+- Trong hệ điều hành Windows 7, để chọn được nhiều file theo nhóm kề nhau, ta chọn giữ phím nào?
+  - shift
+- Trong hệ điều hành Windows 7, ta dùng thuộc tính nào để ẩn thanh công cụ Taskbar tự động?
+  - Auto-hide the taskbar
+- Khi sử dụng máy tính, thao tác nào sau đây không đảm bảo an toàn?
+  - Tháo lắp máy tính khi máy vẫn còn trong trạng thái hoạt động
+- Trong hệ điều hành Windows 7, tệp tin là khái niệm dành cho:
+  - Một đơn vị lưu trữ thông tin trên bộ nhớ ngoài
+- Trong hệ điều hành Windows 7, hãy chọn một trong các tổ hợp phím tắt để tạo mới một Folder
+  - Ctrl+Shift+N
+- Trong hệ điều hành Windows 7, để xoá một biểu tượng trên Desktop ta chọn biểu tượng cần xoá và:
+  - Tất cả các ý còn lại đều đúng
+- Trong hệ điều hành Windows 7, nếu muốn di chuyển 1 biểu tượng sang vị trí khác trên desktop,ta sẽ làm gì?
+  - Click vào biểu tượng đó rồi kéo sang vị trí cần di chuyển
+- Trong hệ điều hành Windows 7, muốn tạo mới một Folder, ta làm thế nào?
+  - Trên vùng trống của thư mục cha, Click chuột phải, chọn New, chọn Folder
+- Trong hệ điều hành Windows 7, dùng tổ hợp phím nào sau đây để phóng to thu nhỏ cả màn hình khi trình chiếu?
+  - Ctrl + [lăn chuột lên hoặc xuống]
+- Trong hệ điều hành Windows 7, phím tắt để mở Windows Explorer là:
+  - Windows + E
+- Hệ điều hành cần được nạp vào đâu để đảm bảo máy tính hoạt động được?
+  - Ram
+- Ta có thể format ổ chứa hệ điều hành Windows 7 không?
+  - Không thể nếu như đang sử dụng hệ điều hành trên ổ đĩa đó
+- Trong hệ điều hành Windows 7, ta làm thế nào nếu muốn đóng tệp hiện hành nhưng không thoát khỏi chương trình?
+  - Nhấn tổ hợp phím Alt + F4
+- Trong hệ điều hành Windows 7, máy tính đọc dữ liệu nhanh nhất từ nguồn nào?
+  - Đĩa cứng
+- Trong hệ điều hành Windows 7, để chọn được nhiều file riêng lẻ không kề nhau, ta chọn giữ phím nào?
+  - ctrl
+- Trong hệ điều hành Windows 7, màn hình làm việc (desktop) có thể chứa:
+  - Tất cả các phương án còn lại đều đúng
+- Trong hệ điều hành Windows 7,ta sử dụng phím tắt nào khi muốn chuyển giữa các ứng dụng đang chạy?
+  - Alt + Tab
+- Hãy cho biết định dạng chuẩn của phân vùng đĩa cài hệ điều hành trong hệ điều hành Windows
+  - NTFS
+- Trong hệ điều hành Windows 7, ta thực hiện thao tác nào để mặc định để tùy chỉnh cập nhật của Windows?
+  - Vào Control Panel\System and Security\Windows Update
+- Trong hệ điều hành Windows 7, muốn xem ngày tạo ra tệp tin, làm thế nào?
+  - Click chuột phải chọn Properties, thông tin ngày tạo hiện trên tab General
+- Trong hệ điều hành Windows 7, nếu muốn xem kích thước của tệp, ta làm thế nào?
+  - Click chuột phải chọn Properties, thông tin kích thước hiện trên tab General
+- Trong hệ điều hành Windows 7, ta sử dụng lệnh nào để khởi động lại máy?
+  - Lệnh restart
+- Bàn phím ảo là chương trình nào trong hệ điều hành Windows 7?
+  - On-Screen keyboard
+- Trong hệ điều hành Windows 7, hãy chọn cách đúng để khởi động lại máy tính?
+  - Từ cửa sổ màn hình nền nhấn nút Start - Shutdown, sau đó chọn mục Restart
+
+# Xử lý văn bản cơ bản
+
+- Trong Word 2010, lệnh ngắt từ tự động?
+  - Page layout>Page setup>Hyphenation>Automatic
+- Trong Word, để chuyển đoạn văn bản từ chữ thường sang chữ in hoa, bôi đen văn bản và nhấn?
+  - Ctrl + Shift + A
+- Trong word, Footnote là công cụ gì?
+  - Là công cụ trong Word ghi chú thích ở cuối trang hoặc cuối tài liệu
+- Thêm âm thanh vào văn bản nhằm mục đích gì?
+  - Thêm phần hấp dẫn và muốn làm rõ hơn ý minh họa trong báo cáo.
+- Trong word, khoảng cách giữa văn bản và các cạnh của trang được gọi là:
+  - Lề (margin)
+- Trong Word 2010, để xóa trang trắng ở cuối văn bản, thực hiện:?
+  - Đưa con trỏ về cuối trang (phím tắt là CTRL+Shift+end) rối nhấn Delete.
+- Trong Word 2010, sửa một cụm từ xuất hiện nhiều lần trong một văn bản, thực hiện:
+  - Dùng tính năng Find and Replace và chọn Replace All
+- Với Word 2010, lưu tài liệu đang mở vào một thư mục khác?
+  - Bấm vào menu File > Save As > Chọn thư mục cần lưu
+- Thao tác hủy in một tài liệu đang trong hàng đợi in?
+  - Hủy hàng đợi in trong What’s printing của máy in
+- Trong word, thao tác đánh dấu các vùng văn bản không liên tiếp nhau?
+  - Đánh dấu vùng văn bản nào đó. Sau đó nhấn và giữ phím Ctrl trong khi thực hiện đánh dấu các vùng văn bản còn lại
+- Để tổ chức và định dạng một văn bản, cần quan tâm đến?
+  - Tất cả các ý còn lại đều đúng
+- Trong Word 2010, để tìm và mở một tệp tin Word có sẵn, nhấn:
+  - Ctrl + O
+- Thao tác cơ bản nào sau đây để mở phần mềm MS Word 2010?
+  - Start > All Programs > Microsoft Office > Microsoft Word 2010
+- Trong Word 2010, phát biểu nào sau đây không đúng?
+  - Không thể lưu được văn bản thành file pdf
+- Phát biểu nào sau đây là sai?
+  - MS Word tích hợp sẵn trong Windows nên không cần cài đặt nó
+- Tạo một tệp tin trong Word 2010 nhấn:
+  - Ctrl + N
+- Trong Word, Để ghi chỉ số trên (superscript), thực hiện:
+  - Nhấn tổ hợp phím Ctrl + Shift + +
+- Trong Word, để xóa bỏ nhanh định dạng Formatting của một đoạn văn bản đã lựa chọn, thực hiện:
+  - Nhấn tổ hợp phím Ctrl + Space
+- Với Word, để lưu một tệp tin Word đang soạn thảo, nhấn:
+  - Ctrl + S
+- Trong word, để ngắt trang, nhấn:
+  - Ctrl + Enter
+- Quá trình xử lý văn bản bao gồm những giai đoạn nào?
+  - Soạn thảo văn bản và Xử lý văn bản
+- Trong Word, nhấn Ctrl+U để?
+  - Định dạng gạch chân cho văn bản
+- Với Word 2010, các nhóm lệnh: Proofing, Language, Comments, Tracking…thuộc thẻ nào?
+  - Review
+- Kỹ thuật trình bày văn bản là gì?
+  - Là bao gồm khổ giấy, kiểu trình bày, định lề trang văn bản, vị trí trình bày các thành phần thể thức, phông chữ, cỡ chữ, kiểu chữ và các chi tiết trình bày khác, được áp dụng đối với văn bản soạn thảo trên máy vi tính và in ra giấy.
+- Trong Word 2010, lệnh tạo một bản sao của cửa sổ word đang mở?
+  - New Window
+- Các chức năng chính của chương trình soạn thảo văn bản?
+  - Tất cả các ý còn lại đều đúng
+- Với Word 2010, nhóm lệnh: Pages, Tables, Illustrations, Links…thuộc thanh ribbon của thẻ nào?
+  - Insert
+- Trong Microsoft Word 2010, thao tác nào sau đây thực hiện để tạo mới thư mục lưu trữ các tập tin Word ngay khi ta đang làm việc với chúng?
+  - File > Save As > New Folder
+- Hệ soạn thảo văn bản là gì?
+  - Là một phần mềm ứng dụng cho phép thực hiện những thao tác liên quan đến việc soạn thảo văn bản: gõ (nhập) văn bản, sửa đổi, trình bày, lưu trữ và in ấn văn bản.
+- Trong word, để lấy lại đoạn văn bản vừa lỡ xóa nhầm, thực hiện?
+  - Nhấn tổ hợp phím Ctrl + Z
+
+# Sử dụng bảng tính cơ bản
+
+- Phương án nào sau đây là đúng để nhập dữ liệu vào bảng tính?
+  - Nhấp chuột vào ô cần nhập, nhập dữ liệu và sau đó nhấn phím Enter để kết thúc
+- Trong MS Excel 2010, nhấn tổ hợp phím nào dưới đây sẽ chọn toàn bộ nội dung trong trang tính?
+  - Ctrl + A
+- Trong excel 2010, khi muốn lựa chọn nhiều dòng kề nhau ta phải lựa chọn dòng đầu tiên, sau đó ấn phím nào trong các phím sau rồi lựa chọn dòng cuối cùng?
+  - Shift
+- Trong excel 2010, muốn thay thế nội dung giống nhau ở nhiều ô trong trang tính ta cần thực hiện thao tác nào sau đây?
+  - Ctrl +F>Replace>đưa nội dung cũ cần thay thế và nội dung mới vào
+- Trong excel 2010, hộp thoại nào sau đây chứa các lệnh để định dạng ngày tháng và thời gian cho một ô được chọn trong bảng tính?
+  - Format Cells
+- Khi làm việc trên bảng tính Excel 2010, nếu muốn mở 1 tệp bảng tính (WorkBook) thì ta chọn File trên thanh menu sau đó chọn:
+  - Open
+- Trong excel 2010, muốn chọn (đánh dấu) nhiều ô không liền kề ta phải ấn vào phím nào trong các phím sau rồi nhấn chuột trái chọn các ô cần đánh dấu?
+  - Ctrl
+- Muốn khởi động phần mềm MS Excel 2010 ta phải chọn:
+  - Start> MS Excel 2010
+- Trong excel 2010, phím nào sau đây giúp sửa lỗi bằng cách xóa ký tự sai bên trái con trỏ?
+  - Backspace
+- Trong excel 2010, muốn sao chép liệu từ vùng nguồn sang một vùng đích thì trước hết ta phải lựa chọn vùng nguồn, sau đó chọn nhóm Home > clipboard, rồi tiếp tục chọn:
+  - Copy
+- Trong excel 2010, nếu tại ô E5 nếu ta nhập công thức =\$E\$3 \*8 thì công thức này đã tham chiếu địa chỉ gì của ô E3?
+  - Tuyệt đối
+- Khi nhập dữ liệu vào 1 ô tính, nếu nội dung ô tính được bắt đầu bằng dấu “=” hoặc dấu “+” thì dữ liệu của ô đấy là:
+  - Kết quả sau khi công thức tại ô đấy tính toán
+- Trong các phương án dưới đây, đâu là phần mềm bảng tính
+  - Cả 3 ý còn lại đều đúng
+- Trong Excel 2010, một workbook (tệp tin excel) chứa tối đa bao nhiêu bảng tính (sheet)?
+  - 255
+- Trong excel 2010, khi sao chép dữ liệu của từ vùng nguồn sang vùng đích, đầu tiên ta phải đánh dấu vùng nguồn định sao chép, tiếp theo thực hiện thao tác nào sau đây rồi đưa con trỏ đến vùng đích dán dữ liệu vào?
+  - Ấn tổ hợp phím Ctrl + C
+- Trong excel 2010, kiểu dữ liệu nào sau đây không được dùng trong bảng tính Excel?
+  - Day
+- Chương trình bảng tính là gì?
+  - Chương trình bảng tính là phần mềm được thiết kế để giúp ghi lại và trình bày thông tin dưới dạng bảng, thực hiện các tính toán cũng như xây dựng các biểu đồ biểu diễn một cách trực quan các số liệu trong bảng.
+- Trong excel 2010, muốn di chuyển từ trang tính (sheet) này sang bảng tính khác trong một workbook ta bấm tổ hợp phím nào sau đây?
+  - Ctrl-Page Up; Ctrl- Page Down
+- Muốn sắp xếp đều các bảng tính đang mở đồng thời trong MS Excel 2010 bạn phải chọn:
+  - View> Arange All
+- Trong excel 2010, phím nào sau đây sẽ dùng để kết hợp lựa chọn các dòng không kề nhau?
+  - Ctrl
+- Kiểu file mặc định trong excel 2010 có đuôi là gì?
+  - \*.Xlsx
+- Trong excel 2010, muốn sắp xếp dữ liệu của các ô theo thứ tự giảm dần của số hoặc của chữ cái trong từ điển thì trước hết phải chọn các ô dữ liệu, sau đó ta thực hiện thao tác:
+  - Ấn chuột phải>Sort> Sort Largest to Smallest
+- Trong excel 2010, muốn chọn nhiều ô liền kề ta phải đặt con trỏ chọn ô bắt đầu, sau đó nhấn đồng thời ấn chuột trái và phím nào dưới đây vào ô cuối cùng?
+  - Shift
+- Phần mềm bảng tính không thực hiện được thao tác nào dưới đây
+  - Gửi tin nhắn trên mạng Internet (chat)
+- Trong excel 2010, khi con trỏ đang nằm ở 1 ô có dữ liệu, ấn phím gì trong các phím sau thì dữ liệu không bị xóa?
+  - Insert
+- Trong excel 2010, khi muốn dán dữ liệu ta ấn tổ hợp phím nào trong các tổ hợp sau?
+  - Shift+Insert
+- Muốn làm việc được với phần mềm MS Excel 2010 người sử dụng phải:
+  - Cài đặt phần mềm mềm MS Excel 2010 trên hệ điều hành tương thích
+- Trong excel 2010, khi gõ giá trị số bắt đầu vào ô đầu tiên, chọn ô vừa gõ, di chuyển chuột tới góc phải phía bên dưới khi hiện hình chữ thập, nhấn chuột và giữ phím Ctrl, kéo tới ô mong muốn. Kết quả thu được là gì?
+  - Dãy số tự động tăng dần được điền vào.
+- Trong excel 2010, khi muốn sửa dữ liệu cho 1 ô trước hết phải đưa con trỏ đến ô cần sửa, sau đó ấn phím nào trong các phím sau đây rồi sửa theo ý muốn?
+  - F2
+- Trong MS Excel 2010, thao tác nhấp chọn ô B5, giữ phím Shift và nhấp tiếp vào ô E9 có ý nghĩa gì?
+  - Bôi đen các ô liên tiếp trong vùng B5:E9
+
+# Sử dụng trình chiếu cơ bản
+
+- Trong PowerPoint 2010, tính năng nào để điều chỉnh khoảng cách giữa các dòng và kích thước phông chữ của văn bản để vùng giữ chỗ (place holder) có thể chứa được tất cả văn bản?
+  - AutoFit
+- Phần mềm nào sau đây là chương trình trình chiếu?
+  - PowerPoint 2010
+- Trong PowerPoint 2010, Chia một ô trong bảng nào đó thành 2 ô:
+  - kích chuột phải vào ô đó và chọn Split Cells
+- Loại hình bài trình chiếu nào sau đây được dùng để giảng dạy?
+  - Thuyết trình đào tạo
+- Trong PowerPoint, các yếu tố thiết kế được được áp dụng cho các slide của bài thuyết trình thì được gọi là gì?
+  - Các chủ đề (Themes)
+- Trong PowerPoint 2010, lệnh cho phép thay đổi thiết kế của một slide sau khi nó đã được chèn vào một bài thuyết trình?
+  - Layout
+- Trong PowerPoint 2010, lệnh gõ tiêu đề, đánh số trang trong các slide, khai báo ngày tháng ..... :
+  - Chọn Insert > chọn slide number
+- Trong PowerPoint 2010, lệnh chèn bảng biểu vào slide:
+  - chọn Insert > Table
+- Trong cửa sổ PowerPoint 2010, các nút điều khiển zoom và nút xem PowerPoint nằm ở đâu?
+  - Status bar
+- Trong PowerPoint 2010, nhấn CTRL+N để:
+  - Tạo Bản thuyết trình mới
+- Trong PowerPoint 2010, lệnh dùng một hình ảnh nào đó đã có trong đĩa để làm nền cho các slide trong bản trình chiếu:
+  - Picture or Texture Fill
+- PowerPoint 2010, định dạng các viền xung quanh bảng và các ô nằm ở đặc tính nào?
+  - Table Style
+- Trong PowerPoint 2010, các lệnh để sắp xếp lại danh sách đa cấp của văn bản?
+  - Lùi ra thụt vào
+- Đường biên của vùng giữ chỗ (placeholder) có dạng đường đứt nét mang ý nghĩa gì?
+  - Vùng giữ chỗ đang hoạt động
+- Trong PowerPoint, Slide dùng để giới thiệu chủ đề cho bài thuyết trình được gọi là:
+  - Title Slide
+- Trong PowerPoint 2010, lệnh nào thoát khỏi bản trình chiếu hiện tại và thoát khỏi chương trình?
+  - Exit
+- Trong PowerPoint 2010,thẻ nào chứa các lệnh để chèn một vùng chứa văn bản (placeholder textbox) vào một slide?
+  - Insert
+- Kiểu danh sách tuần tự trong slide?
+  - Numbering
+- Trong PowerPoint 2010, lệnh lưu bản trình chiếu đã có với một tên mới hoặc trong một vị trí mới?
+  - Save As
+- Trong PowerPoint 2010, ở thẻ home, nhóm chứa các lệnh để tạo slide mới trong bản trình diễn?
+  - Slides
+- Trong PowerPoint, thao tác mở một bài trình chiếu đã có?
+  - CTRL+O>Chọn tên tập tin cần tìm
+- Trong PowerPoint, Thao tác mở một tập tin đã trên ổ đĩa?
+  - chọn File > Open
+- Chọn câu sai trong các câu sau đối với Powerpoint:
+  - không thể tạo chỉ số trên (ví dụ số 2 trong X2) như trong MS-Word
+- Trong PowerPoint, chọn nút nào trên thông báo để lưu tập tin chưa lưu khi thoát khỏi chương trình?
+  - Nút Save
+- Trong PowerPoint, bước định trước cách tổ chức các đối tượng trên một slide gọi là:
+  - Lên bố cục
+- Trong PowerPoint 2010, lệnh tô màu nền cho một slide:
+  - chọn Design > Background Styles
+- Trong PowerPoint 2010, lệnh File > Close có tác dụng:
+  - đóng tập tin hiện tại
+- Trong PowerPoint 2010, thao tác chọn một số đối tượng trên một Slide:
+  - Nhấn giữ Shift + kích nút trái chuột vào đối tượng cần chọn
+- Trong 2010, trong thẻ view, lựa chọn nào cho phép người dùng xem một slide vào một thời điểm trong cửa sổ Slide?
+  - Normal
+- Trong Powerpoint, các văn bản hoặc các đối tượng khác khi cắt hoặc sao chép được lưu vào đâu?
+  - Clipboard
+
+# Sử dụng Internet cơ bản
+
+- Chức năng tìm kiếm nào của www.google.com chưa thực hiện được?
+  - Chúng ta có thể tìm âm thanh theo từ khoá nhập vào.
+- Internet (liên mạng) là gì?
+  - Là một hệ thống thông tin gồm các mạng máy tính trên toàn cầu liên kết với nhau.
+- Thao tác nhanh nhất để mở một trình duyệt web có biểu tượng trên màn hình Desktop thực hiện thế nào?
+  - Nhấn đúp chuột trái vào biểu tượng trình duyệt.
+- Nút trang nhà (Home) trên công cụ trình duyệt Internet Explorer dùng để làm gì?
+  - Đưa bạn đến với trang đầu tiên mặc định của website.
+- Khi sử dụng trình duyệt web, phát biểu nào dưới đây không đúng?
+  - Có thể nhấn nút STOP để đóng cửa sổ duyệt Web.
+- Trang nhà (Home page) là gì?
+  - Trang web đầu tiên người xem truy cập từ tên miền.
+- Để xem lại lịch sử duyệt web trên trình duyệt Internet Explorer dùng tổ hợp phím nào sau đây?
+  - Ctrl + H
+- Người dùng khi muốn truy cập mạng internet cần đăng ký với ai?
+  - Nhà cung cấp dịch vụ internet (ISP).
+- Phát biểu nào dưới đâykhông đúng?
+  - Internet là dịch vụ do một tập đoàn tại Mỹ điều hành.
+- Muốn xem được trang web, cần phải cài đặt phần mềm ứng dụng nào sau đây?
+  - Chrome.
+- Để đăng nhập vào hòm thư điện tử hoặc trang mạng xã hội cần điền ít nhất những thông tin gì?
+  - Tên người dùng và mật khẩu.
+- Cookie lưu lại trên máy tính khi duyệt một số website là gì?
+  - Là các tệp được tạo ra khi truy cập trang web.
+- Siêu liên kết (hyper link) là gì?
+  - Dùng để liên kết các tài nguyên trên Internet qua các đường link trên trang Web.
+- Địa chỉ nào sau đây dùng để truy cập vào trang web của Google?
+  - google.com
+- Giao thức HTTP sử dụng trên mạng internet để làm gì?
+  - Truyền các tập tin siêu văn bản.
+- Muốn in toàn bộ trang web đang hiển thị thì trong hộp thoại in ấn ta chọn mục nào?
+  - All
+- Để mở một thẻ mới trong trình duyệt Internet Explorer sử dụng tỏ hợp phím nào?
+  - Ctrl + T.
+- Muốn tìm chính xác hơn thông tin trên máy tìm kiếm (search engine) thì làm thế nào?
+  - Sử dụng chức năng tìm kiếm nâng cao.
+- Hộp văn bản trên một biểu mẫu (form) thường có tác dụng gì?
+  - Điền thông tin văn bản.
+- Trang Web là gì?
+  - Là trang chứa văn bản, hình ảnh, âm thanh, video và các liên kết.
+- Địa chỉ trang web nào dưới đây không phải là địa chỉ của một máy tìm kiếm?
+  - Vnexpress.net
+- Mạng diện rộng “WAN” là viết tắt của cụm từ nào?
+  - Wide Area Network
+- Địa chỉ của trang web nào sau đây là không đúng?
+  - www.yahoo@.com
+- Ứng dụng duyệt web là gì?
+  - Là phần mềm ứng dụng cho phép người dùng xem trang web.
+- Nút Submit ở cuối mỗi biểu mẫu (form) có chức năng gì?
+  - Gửi thông đã điển.
+- Đâu là phát biểu đúng nhất về chức năng của URL?
+  - Dùng để tham chiếu tới tài nguyên trên internet.
+- Ở trình duyệt Internet Explorer phiên bản 7 hoặc mới hơn, phím tắt Ctrl + Tab dùng để làm gì?
+  - Chuyển đến Tab liền kề bên phải.
+- Trong trình duyệt web, khi bạn muốn sao chép một đoạn văn bản trong trang web, sau khi bôi đen chọn đoạn văn bản thì bạn thực hiện thao tác nào sau đây để thực hiện chức năng sao chép?
+  - Nhấn chuột phải và chọn “copy”
+- Pop-up là gì?
+  - Pop-up là một hộp thoại nhỏ xuất hiện trên trang web mà chúng ta đang xem .
+- Để mở lại một thẻ mới đóng gần đây trong trình duyệt Internet Explorer sử dụng tổ hợp phím nào sau đây?
+  - Ctrl + Shift + T.
